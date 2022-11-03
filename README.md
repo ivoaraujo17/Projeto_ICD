@@ -1,12 +1,12 @@
 # Projeto_ICD
-Projeto final da disciplina de introdução a ciência de dados\n
+Projeto final da disciplina de introdução a ciência de dados
 
-Integrantes\n
-Ivo Crescencio de Araujo\n
-João Victor\n
-Rodrigo Vieira\n
+Integrantes
+Ivo Crescencio de Araujo
+João Victor
+Rodrigo Vieira
 
-Dataset com dados sobre cliente de um provedor de internet, arquivo disponível neste repositório.\n
-1- O tempo de cliente influencia na quantidade de produtos contratados? se sim, pra mais ou pra menos?\n
-2- Ter dependentes influencia no cancelamento?\n
-3- A forma de pagamento influencia no cancelamento?\n
+Dataset com dados sobre cliente de um provedor de internet, arquivo disponível neste repositório.
+1- O tempo de cliente influencia na quantidade de produtos contratados? se sim, pra mais ou pra menos?
+2- Ter dependentes influencia no cancelamento?
+3- A forma de pagamento influencia no cancelamento?
